@@ -1,4 +1,4 @@
-# Important part for beginners
+# Templates and Snippets
 
 **versioncheck.py**
 
